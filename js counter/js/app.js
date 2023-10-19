@@ -1,4 +1,4 @@
 $('.count').counterUp({
     delay: 10,
-    time: 7000
+    time: 1000
 });
