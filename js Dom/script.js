@@ -15,3 +15,11 @@ button.addEventListener('click',()=>{
 //  alert("hi")
 // }
 // )
+
+// JavaScript Timing Events
+function myFunction() {
+  alert('Hello');
+}
+
+
+
